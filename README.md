@@ -1,7 +1,7 @@
-# Implementation of some Identity Classes
+# Implementation of Identity Classes With Stores
 ## Net Core 2.2
 
-Implementation of IdentityRole, IdentityUser, RoleStore and UserStore in 
+Implementation of IdentityRole, IdentityUser, RoleStore and UserStore
 
 1. Instal MsSQL and Make Database
 2. Be sure to input correct MsSQL Connection String to the AppSettings pointing to the correct Database
