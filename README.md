@@ -46,13 +46,14 @@ For RoleStore: IRoleStore, IRoleClaimStore
 
 You can read more at: [Custom storage providers for ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-custom-storage-providers?view=aspnetcore-3.1)
 
-## FAQ / Collaboration
+## FAQ
 
 1. Do you loose features that comes with Identity (Password Hashing...)?
 - No, you can use password hashing, cookie authentication, anti-forgery, roles, claims, and all the other features that come with Identity framework.
 
 2. Why I would use this approach when default Identity models are rich?
 - One of the main reasons for this is that you maybe need just portion of Identity features, or you maybe have existing database Schema (Users, Roles...) that you cannot easily change or migrate to. 
- 
 
-Feel free to collaborate on project and expand Stores with more 
+## Collaboration
+
+Feel free to collaborate on project and expand Custom Storage providers
