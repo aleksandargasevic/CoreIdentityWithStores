@@ -56,4 +56,4 @@ You can read more at: [Custom storage providers for ASP.NET Core Identity](https
 
 ## Collaboration
 
-Feel free to collaborate on project and this sample project for Custom Storage providers
+Feel free to collaborate on project and this sample project for Custom Storage providers. Cheers!
